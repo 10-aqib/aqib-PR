@@ -1,0 +1,3 @@
+# Note 52
+
+Practice note for the pull request workflow.
